@@ -35,7 +35,6 @@ app.use(registerRouter());//路由处理
 
 /**
  * 调用Index.insert()函数，填充模拟数据
- * 
  * */
 let users = [];
 for (var i = 1; i < 20; i++) {
@@ -127,4 +126,4 @@ module.exports = registerRouter
 
 ### 1、安装
 
-> 官网[下载]()
+> 官网[下载](https://www.mongodb.com/download-center/community)
